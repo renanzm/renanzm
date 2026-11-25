@@ -57,7 +57,7 @@ Aficionado por computadores desde criança, conheci o  **Windows 98**, e foi da�
 |:-:|---|---|---|
 | 🎛️ | [**Sound Mod**](https://github.com/renanzm/sound-mod-rs) | Soundboard para Windows que toca sons direto no microfone, com hotkeys globais e efeitos de voz | Rust · egui |
 | 📊 | [**Usage Widget**](https://github.com/renanzm/cursor-usage-widget) | Widget com o gasto e os limites do Claude Code, do Codex e do Cursor | Rust · Tauri |
-| 🚀 | [**App Launcher**](https://github.com/renanzm/app-launcher) | Instala, atualiza e executa apps distribuídos por FTP/FTPS | Python · PyQt6 |
+| 🚀 | [**App Launcher**](https://github.com/renanzm/app-launcher) | Launcher no estilo dos launchers de jogos que instala e atualiza apps direto das releases do GitHub *(v2)* | Python · PyQt6 |
 | 🎯 | [**RZ Airsoft**](https://github.com/renanzm/rz-airsoft) | Gestão de oficina de airsoft: ordens de serviço, relatórios técnicos em PDF e clientes | JavaScript · Python |
 | 🚗 | [**Focus Temp Tool**](https://github.com/renanzm/focus-temp-tool) | Temperatura real no painel do Ford Focus Mk2, via ELM327 *(em desenvolvimento)* | Python |
 | ⛽ | **Idle Gas Station** · [prévia](https://renanzm.github.io/projetos/idle-gas-station/) | Jogo mobile idle de gestão de postos de combustível, em 3D low-poly *(em breve)* | Godot · GDScript |
