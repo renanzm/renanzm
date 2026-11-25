@@ -17,7 +17,7 @@ Trabalho com dados que não podem dar errado e transformo ideias em apps para Wi
 
 Sou desenvolvedor no ecossistema **Domínio Sistemas** e trabalho com **conversão, migração, auditoria e validação de dados** para sistemas contábeis, de folha de pagamento e eSocial. No dia a dia, investigo inconsistências em bancos de dados e conversores, corrijo em Python e SQL e cubro as correções com testes automatizados, com branches, pull requests e releases que deixam cada entrega rastreável.
 
-Mexo com computador desde criança, no tempo do **Windows 98**, e foi daí que veio a intimidade com o Windows e com software desktop. Nos projetos pessoais, transformo ideias em programas de verdade, de um soundboard em Rust a um jogo mobile em Godot.
+Mexo com computador desde criança, no tempo do **Windows 98**, e foi daí que veio a intimidade com o Windows e com software desktop. Nos projetos pessoais, transformo ideias em programas de verdade, de um soundboard em Rust para arrancar algumas risadas no Discord a um jogo mobile em Godot.
 
 - 🔄 **Dados e ETL:** migração, transformação, validação e auditoria para contábil, folha e eSocial
 - 🗄️ **Bancos de dados:** Sybase/SQL Anywhere, PostgreSQL, SQL Server, SQLite, Firebird e Oracle
