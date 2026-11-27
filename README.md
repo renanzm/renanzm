@@ -6,7 +6,7 @@
 
 Trabalho com dados que não podem dar errado e transformo ideias em apps para Windows, ferramentas e, agora, um jogo.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-renanzm.github.io-111111?style=for-the-badge&logo=astro&logoColor=white)](https://renanzm.github.io)
+[![Portfólio](assets/portfolio.svg)](https://renanzm.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renan%20Zacaron-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/renan-zacaron-39a4711ba/)
 
 </div>
@@ -39,7 +39,7 @@ Aficionado por computadores desde criança, iniciei no **Windows 98**, e de lá 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" />
   <img src="https://img.shields.io/badge/Firebird-D35400?style=for-the-badge" alt="Firebird" />
-  <img src="https://img.shields.io/badge/SQL%20Anywhere-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SQL Anywhere" />
+  <img src="assets/sql-anywhere.svg" alt="SQL Anywhere" />
   <br />
   <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="pytest" />
   <img src="https://img.shields.io/badge/ruff-%23D7FF64.svg?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
